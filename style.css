@@ -1,0 +1,28 @@
+.banner {
+    background: url("karatonbanggai.jpg") 
+    no-repeat center center;    
+background-size: cover;
+padding-top: 25%;
+padding-bottom: 25%;
+color: #0c0b0b;
+}
+
+
+.lingkaran {
+display: inline-block;
+border-radius: 50%;
+width: 150px;
+margin: auto;
+height: 150px;
+color:#fff;
+background-color:#dc3545;
+}
+
+.lingkaran i {
+    position:relative;
+    top: 30px;
+}
+
+.crop-img {
+    object-fit: cover;
+}
